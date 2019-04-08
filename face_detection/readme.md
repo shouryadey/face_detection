@@ -1,4 +1,4 @@
-The aim is to use Haar-like features to detect face(frontal face) from the live video
+The aim is to use Haar-like features to detect face(frontal face) from live video
 
 1)remove the dummydoc from the folder named cropped
 
